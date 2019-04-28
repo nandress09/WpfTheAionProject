@@ -32,7 +32,7 @@ namespace WpfTheAionProject.PresentationLayer
 
         private void InitializeWindowTheme()
         {
-            this.Title = "Laughing Leaf Productions";
+            this.Title = "Creatives Think a like Productions";
         }
 
         private void NorthTravelButton_Click(object sender, RoutedEventArgs e)
