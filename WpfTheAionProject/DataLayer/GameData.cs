@@ -163,17 +163,17 @@ namespace WpfTheAionProject.DataLayer
             gameMap.MapLocations[2, 1] = new Location()
             {
                 Id = 6,
-                Name = "The Tamfasia Galactic Academy",
-                Description = "The Tamfasia Galactic Academy was founded in the early 4th galactic metachron. " +
-                "You are currently in the library, standing next to the protoplasmic encabulator that stores all " +
-                "recorded information of the galactic history.",
+                Name = "The General store",
+                Description = "Welcome to the general store, where we have all the goods of life! " +
+                "Quit looking so lost, stranger. Come on in and get your food, weapons, and all other things " +
+                "Don't touch the chickens..",
                 Accessible = true,
                 ModifiyExperiencePoints = 10,
                 GameItems = new ObservableCollection<GameItemQuantity>()
                 {
                     new GameItemQuantity(GameItemById(2001), 10),
-                    new GameItemQuantity(GameItemById(4001), 10),
-                    new GameItemQuantity(GameItemById(2020), 10)
+                    new GameItemQuantity(GameItemById(4002), 10),
+                    new GameItemQuantity(GameItemById(3001), 10)
                 }
             };
             return gameMap;
