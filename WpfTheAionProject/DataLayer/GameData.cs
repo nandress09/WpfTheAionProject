@@ -135,6 +135,11 @@ namespace WpfTheAionProject.DataLayer
                     new GameItemQuantity(GameItemById(1001), 10),
                     new GameItemQuantity(GameItemById(1002), 10),
                     new GameItemQuantity(GameItemById(3001), 10)
+                },
+                  Npcs = new ObservableCollection<Npc>()
+                {
+                    NpcById(1002),
+                    NpcById(1001)
                 }
             };
 
@@ -158,6 +163,7 @@ namespace WpfTheAionProject.DataLayer
                     new GameItemQuantity(GameItemById(4002), 10),
                     new GameItemQuantity(GameItemById(3001), 10)
                 }
+                 
             };
 
             gameMap.MapLocations[2, 1] = new Location()
@@ -174,6 +180,11 @@ namespace WpfTheAionProject.DataLayer
                     new GameItemQuantity(GameItemById(2001), 10),
                     new GameItemQuantity(GameItemById(4002), 10),
                     new GameItemQuantity(GameItemById(3001), 10)
+                },
+                 Npcs = new ObservableCollection<Npc>()
+                {
+                    NpcById(1002),
+                    NpcById(1001)
                 }
             };
             return gameMap;
@@ -244,7 +255,7 @@ namespace WpfTheAionProject.DataLayer
                         "Some say the Queen had her husbands ashes stored in a necklace that she refuses to be without"
 
                     }
-                }
+                },
             };
         }
     }
