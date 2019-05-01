@@ -1,0 +1,17 @@
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\bin\Debug\WpfTheAionProject.exe.config
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\bin\Debug\WpfTheAionProject.exe
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\bin\Debug\WpfTheAionProject.pdb
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.csprojAssemblyReference.cache
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\PresentationLayer\GameSessionView.g.cs
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\PresentationLayer\PlayerSetupView.g.cs
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\App.g.cs
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject_MarkupCompile.cache
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject_MarkupCompile.lref
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\PresentationLayer\GameSessionView.baml
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\PresentationLayer\PlayerSetupView.baml
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.g.resources
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.Properties.Resources.resources
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.csproj.GenerateResource.cache
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.csproj.CoreCompileInputs.cache
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.exe
+C:\Users\05465\Desktop\WpfTheAionProject-master\WpfTheAionProject\obj\Debug\WpfTheAionProject.pdb
